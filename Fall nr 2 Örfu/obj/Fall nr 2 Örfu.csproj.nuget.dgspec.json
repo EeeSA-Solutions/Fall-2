@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boneb\\Desktop\\Vs studios höst 2020\\Fall nr 2 Örfu\\Fall nr 2 Örfu\\Fall nr 2 Örfu.csproj": {}
+    "C:\\Users\\boneb\\Desktop\\GRUPP fall 2\\Fall-2\\Fall nr 2 Örfu\\Fall nr 2 Örfu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boneb\\Desktop\\Vs studios höst 2020\\Fall nr 2 Örfu\\Fall nr 2 Örfu\\Fall nr 2 Örfu.csproj": {
+    "C:\\Users\\boneb\\Desktop\\GRUPP fall 2\\Fall-2\\Fall nr 2 Örfu\\Fall nr 2 Örfu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boneb\\Desktop\\Vs studios höst 2020\\Fall nr 2 Örfu\\Fall nr 2 Örfu\\Fall nr 2 Örfu.csproj",
+        "projectUniqueName": "C:\\Users\\boneb\\Desktop\\GRUPP fall 2\\Fall-2\\Fall nr 2 Örfu\\Fall nr 2 Örfu.csproj",
         "projectName": "Fall nr 2 Örfu",
-        "projectPath": "C:\\Users\\boneb\\Desktop\\Vs studios höst 2020\\Fall nr 2 Örfu\\Fall nr 2 Örfu\\Fall nr 2 Örfu.csproj",
+        "projectPath": "C:\\Users\\boneb\\Desktop\\GRUPP fall 2\\Fall-2\\Fall nr 2 Örfu\\Fall nr 2 Örfu.csproj",
         "packagesPath": "C:\\Users\\boneb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boneb\\Desktop\\Vs studios höst 2020\\Fall nr 2 Örfu\\Fall nr 2 Örfu\\obj\\",
+        "outputPath": "C:\\Users\\boneb\\Desktop\\GRUPP fall 2\\Fall-2\\Fall nr 2 Örfu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\boneb\\AppData\\Roaming\\NuGet\\NuGet.Config",

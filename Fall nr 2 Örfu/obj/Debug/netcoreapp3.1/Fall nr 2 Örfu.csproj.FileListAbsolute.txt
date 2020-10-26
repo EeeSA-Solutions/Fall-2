@@ -11,3 +11,16 @@ C:\Users\boneb\Desktop\Vs studios höst 2020\Fall nr 2 Örfu\Fall nr 2 Örfu\bin
 C:\Users\boneb\Desktop\Vs studios höst 2020\Fall nr 2 Örfu\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.dll
 C:\Users\boneb\Desktop\Vs studios höst 2020\Fall nr 2 Örfu\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.pdb
 C:\Users\boneb\Desktop\Vs studios höst 2020\Fall nr 2 Örfu\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.genruntimeconfig.cache
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.csprojAssemblyReference.cache
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.AssemblyInfoInputs.cache
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.AssemblyInfo.cs
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.csproj.CoreCompileInputs.cache
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.dll
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.pdb
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\bin\Debug\netcoreapp3.1\Fall nr 2 Örfu.exe
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\bin\Debug\netcoreapp3.1\Fall nr 2 Örfu.deps.json
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\bin\Debug\netcoreapp3.1\Fall nr 2 Örfu.runtimeconfig.json
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\bin\Debug\netcoreapp3.1\Fall nr 2 Örfu.runtimeconfig.dev.json
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\bin\Debug\netcoreapp3.1\Fall nr 2 Örfu.dll
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\bin\Debug\netcoreapp3.1\Fall nr 2 Örfu.pdb
+C:\Users\boneb\Desktop\GRUPP fall 2\Fall-2\Fall nr 2 Örfu\obj\Debug\netcoreapp3.1\Fall nr 2 Örfu.genruntimeconfig.cache

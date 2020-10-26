@@ -185,22 +185,19 @@ namespace Fall_nr_2_Örfu
                 try
                 {
 
-                    Console.WriteLine("Vill du lägga till\n1. Jobbkontakt.\n2. Privatkontakt\n3. Tillbaka");
+                    Console.WriteLine("Vill du lägga till\n1. Privatkontakt.\n2. Jobbkontakt\n3. Tillbaka");
                     valMeny1 = Convert.ToInt32(Console.ReadLine());
                     switch (valMeny1)
                     {
                         case 1:
-                            Console.WriteLine("JOBBKONTAKT");
-                            Console.Clear();
-                            AddContacts(Program.jobbKontaktLista);
-                            break;
-                        case 2:
-                            Console.WriteLine("PKONTAKT");
                             Console.Clear();
                             AddContacts(Program.privatKontaktLista);
+                            break;
+                        case 2:
+                            Console.Clear();
+                            AddContacts(Program.jobbKontaktLista);
                             break;                                  
                         case 3:
-                            Console.WriteLine("Tillbaka");
                             Console.Clear();
                             VisaLista();
                             break;                                

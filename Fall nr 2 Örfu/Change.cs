@@ -21,13 +21,13 @@ namespace Fall_nr_2_Örfu
                         case 1:
 
                             Console.Clear();
-                            Lista_hantera.ÖppnarListan(Program.jobbKontaktLista);
+                            Lista_hantera.ÖppnarListan(Program.privatKontaktLista);
                             ChangeList(Program.jobbKontaktLista);
                             break;
                         case 2:
 
                             Console.Clear();
-                            Lista_hantera.ÖppnarListan(Program.privatKontaktLista);
+                            Lista_hantera.ÖppnarListan(Program.jobbKontaktLista);
                             ChangeList(Program.privatKontaktLista);
                             break;
                         case 3:
